@@ -5,7 +5,9 @@
 ---
 ### Library for database access in Python
 1. **pyodbc**
+
    pyodbc is a Python extension that makes accessing ODBC databases simple. It's a database adapter that allows you to connect to ODBC-compliant databases.
+
    Some popular ODBC-compliant databases include:
 
 - Microsoft SQL Server
@@ -14,3 +16,7 @@
 - PostgreSQL
 - IBM DB2
 - Microsoft Access
+
+2. **PyDB**
+
+PyDB is a lightweight, database-agnostic Python library that provides a simple, uniform interface for accessing various databases. It supports multiple database backends, including MySQL, PostgreSQL, SQLite, and Oracle.
